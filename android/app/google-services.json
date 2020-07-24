@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231300473149",
+    "firebase_url": "https://firestorepracticeflutter.firebaseio.com",
+    "project_id": "firestorepracticeflutter",
+    "storage_bucket": "firestorepracticeflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231300473149:android:57261da3c45ebaff78a554",
+        "android_client_info": {
+          "package_name": "ko.alex.firestore_practice_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231300473149-ufp32nm2bcjhfbisldisg5tpohb2969v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hXPu6xiC_mauC7K-zH9uVzlbgYVOiWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231300473149-ufp32nm2bcjhfbisldisg5tpohb2969v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
